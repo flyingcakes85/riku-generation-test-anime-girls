@@ -1,0 +1,5 @@
+img_width = 300
+img_base_url = 'https://raw.githubusercontent.com/flyingcakes85/riku-generation-test-anime-girls/main'
+img_small_base_url = "/"
+template_path = '/tmp/riku-template'
+output_folder = '.www'
